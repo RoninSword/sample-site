@@ -13,7 +13,8 @@
 
 	</div><!-- #content -->
 
-<h1>Enhancement Footer</h1>
+<h1>This is a bugfix</h1>
+
 
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
